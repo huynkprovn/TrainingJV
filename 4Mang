@@ -1,0 +1,2 @@
+Mảng là đối tượng lưu trữ nhiều biến với chung một kiểu dữ liệu.
+Mặc dù vậy, một mảng bản thân nó cũng là một đối tượng trong bộ nhớ. 
