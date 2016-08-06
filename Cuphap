@@ -1,0 +1,27 @@
+Java là chương trình phân biệt chữ hoa chữ thường
+
+Tên Class - Tất cả các tên Class trong Java nên viết hoa chữ cái đầu tiên và là một danh từ. 
+
+Nếu không viết hoa, các trình IDE sẽ cảnh báo
+
+Ví dụ class System
+
+Tên Interface - Nên bắt đầu với chữ hoa và là một tính từ, ví dụ: Runnable, ActionListener ...
+
+Tên phương thức - Tất cả các tên phương thức nên bắt đầu với chữ thường và là một động từ. 
+
+Ví dụ public void actionPerformed()
+
+Tên biến - Nên bắt đầu với chữ thường, ví dụ: firstName, orderNumber ...
+
+Tên package - Nên bắt đầu với chữ thường, ví dụ: java, lang, sql, util ...
+
+Tên hằng - Nên bắt đầu với chữ hoa, ví dụ: RED, YELLOW, MAX_PRIORITY ...
+
+Tên file chương trình - Tên file nên giống hệt tên class. 
+
+Khi mụi lưu file, mụi nên sử dụng tên class và thêm hậu tố `.java`.
+
+Ví dụ: với tên class `MyfirstJavaProgram`, mụi nên lưu file dưới tên `MyFirstJavaProgram.java`
+
+public static void main(String args[]) - Chương trình Java bắt đầu bởi phương thức main() cho tất cả các chương trình J2SE.
