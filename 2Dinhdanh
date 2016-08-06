@@ -1,0 +1,7 @@
+Modifier trong Java :
+
+Giống các ngôn ngữ khác, mụi có thể sửa đổi các lớp, phương thức, .., bởi sử dụng các Modifier. Trong Java, có hai loại Modifier:
+
+Access Modifier: Bao gồm default, public , protected, private
+
+Non-access Modifier: Bao gồm final, abstract, strictfp
