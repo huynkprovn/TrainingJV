@@ -1,0 +1,9 @@
+Tính kế thừa trong Java
+Trong Java, các Class có thể được suy ra từ các Class khác. Về cơ bản, nếu mụi cần tạo một Class mới và ở đây đã là một Class mà có một số đoạn code mụi cần, thì khi đó nó là có thể để suy ra một class mới từ code đã tồn tại.
+
+Khái niệm này cho mụi khả năng tái sử dụng các trường và các phương thức của class đang tồn tại mà không cần phải viết lại code trong class mới. Trong tình huống này, class đang tồn tại được gọi là superclass và class được suy ra được gọi là subclass.
+
+Interface trong Java
+Trong ngôn ngữ Java, một interface có thể được định nghĩa như là một contract giữa các đối tượng về cách giao tiếp với nhau. Các interface đóng vai trò thiết yếu khi nó đi với khái niệm về tính kế thừa.
+
+Một interface định nghĩa các phương thức, các subclass nên sử dụng. Nhưng sự thực thi của các phương thức lại hoàn toàn là do các subclass.
